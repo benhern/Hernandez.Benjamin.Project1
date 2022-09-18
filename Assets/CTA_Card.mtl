@@ -1,0 +1,7 @@
+newmtl Clean_Concrete_Ground_Material
+map_Kd Clean_Concrete_GroundDiffuse.png
+bump Clean_Concrete_GroundNormal.png
+disp Clean_Concrete_GroundSpecular.png
+Kd 1 1 1
+d 1
+
